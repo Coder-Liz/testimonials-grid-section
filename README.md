@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/testimonials-grid-section-using-css-grid-hHnBQvTWQG)
 - Live Site URL: [Add live site URL here](https://sunny-torrone-ffa824.netlify.app/)
 
 ## My process
